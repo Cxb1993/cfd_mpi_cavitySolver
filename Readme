@@ -1,0 +1,3 @@
+1. Needs cavity_output in working directory
+2. In main.c, line 17, a #define USE_FLIPPED_PRESSURECOMM for a correct gaussian sor solver can be used.
+   This is significant slower
